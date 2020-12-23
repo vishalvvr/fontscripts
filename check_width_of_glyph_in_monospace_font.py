@@ -3,7 +3,6 @@
 
 import sys
 import fontforge as ff
-from fontTools.unicode import Unicode
 
 if len(sys.argv) > 1:
     glyph_width = 1229
